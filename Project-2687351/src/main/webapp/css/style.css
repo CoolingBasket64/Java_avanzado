@@ -1,0 +1,33 @@
+body{
+    padding: 10%;
+}
+form{
+    background-color: aliceblue;
+    padding: 30px;
+    align-content: center;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.hh{
+    margin-left: 54%;
+}
+.hh:hover{
+    background: black;
+    color: white;
+    transition: .6s ease-in-out;
+}
+
+.form-label{
+    width: 8px;
+}
+
+button{
+    height: 40px;
+    width: 120px;
+    align-items: center;
+    background-color: dodgerblue;
+    color: aliceblue;
+    border-radius: 10px;
+    align-items: center;
+}
